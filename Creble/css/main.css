@@ -1,0 +1,30 @@
+/* Hero Section */
+.main-background{
+    filter: brightness(40%);
+    width: fit-content;
+    object-fit: cover;
+    width: 100vw;
+}
+.main-items{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    z-index: 1;
+}
+
+.home-items{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 20vh;
+}
+.home-items p{
+    color: antiquewhite;
+    font-size: 60px !important;
+    font-weight: 500;
+}
